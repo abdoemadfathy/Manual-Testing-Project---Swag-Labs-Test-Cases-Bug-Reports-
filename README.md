@@ -1,0 +1,2 @@
+# Manual-Testing-Project---Swag-Labs-Test-Cases-Bug-Reports-
+I performed manual testing on the Swag Labs demo site, covering login, add to cart, checkout, and sorting. I created and executed test cases with clear steps and results. Using standard_user flows worked smoothly, while problem_user revealed major issues like wrong prices and sorting errors. All defects were logged in professional bug reports
